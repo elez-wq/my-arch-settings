@@ -9,19 +9,14 @@ $ sudo pacman -S noto-fonts-emoji
 
 ## Конфигурация Emoji Font
 
-```sh
-$ cd ~/.config/fontconfig/ && ls
-```
-
-<hr>
-
+Перейдите в каталог fontconfig
 
 ```sh
-$ sudo nano fonts.conf
+-> cd ~/.config/fontconfig/ && ls
 ```
 <hr>
 
-И впишите `fonts.conf`
+И впишите в `fonts.conf` 
 
 ```xml
 <?xml version="1.0"?>
