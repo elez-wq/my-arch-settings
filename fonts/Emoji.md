@@ -4,7 +4,7 @@
 ## Установка пакета Noto-Emoji
 
 ```sh
-$ sudo pacman -S noto-fonts-emoji
+sudo pacman -S noto-fonts-emoji
 ```
 
 ## Конфигурация Emoji Font
@@ -12,7 +12,7 @@ $ sudo pacman -S noto-fonts-emoji
 Перейдите в каталог fontconfig
 
 ```sh
--> cd ~/.config/fontconfig
+cd ~/.config/fontconfig
 ```
 <hr>
 
