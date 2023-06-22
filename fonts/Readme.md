@@ -12,7 +12,7 @@ $ sudo pacman -S noto-fonts-emoji
 Перейдите в каталог fontconfig
 
 ```sh
--> cd ~/.config/fontconfig/ && ls
+-> cd ~/.config/fontconfig
 ```
 <hr>
 
